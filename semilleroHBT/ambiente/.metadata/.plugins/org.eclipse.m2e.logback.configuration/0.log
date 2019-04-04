@@ -1,0 +1,33 @@
+2019-04-03 20:06:12,137 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-03 20:07:13,046 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hbt:semillero:1.0-SNAPSHOT @ C:\ambiente\semilleroHBT\ambiente\semillero-hbt\pom.xml.
+2019-04-03 20:07:13,081 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.hbt.semillero:semillero-padre:1.0-SNAPSHOT @ C:\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\pom.xml.
+2019-04-03 20:07:14,963 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hbt.semillero.servicios:semillero-servicios:1.0-SNAPSHOT @ C:\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-servicios\pom.xml.
+2019-04-03 20:07:15,160 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hbt.semillero.web:semillero-web:1.0-SNAPSHOT @ C:\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\pom.xml.
+2019-04-03 20:07:15,228 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: com.hbt.semillero:semillero-ear:1.0-SNAPSHOT @ C:\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-ear\pom.xml.
+2019-04-03 20:07:15,253 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/semillero-web: com.hbt.semillero.web:semillero-web:1.0-SNAPSHOT with classifier  to /semillero-web/target/classes
+2019-04-03 20:07:15,253 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/semillero-servicios: com.hbt.semillero.servicios:semillero-servicios:1.0-SNAPSHOT with classifier  to /semillero-servicios/target/classes
+2019-04-03 20:07:16,944 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/semillero-web: com.hbt.semillero.web:semillero-web:1.0-SNAPSHOT with classifier  to /semillero-web/target/classes
+2019-04-03 20:07:16,945 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/semillero-servicios: com.hbt.semillero.servicios:semillero-servicios:1.0-SNAPSHOT with classifier  to /semillero-servicios/target/classes
+2019-04-03 20:07:18,033 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-04-03 20:07:21,476 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /semillero-servicios/src/main/java
+2019-04-03 20:07:21,477 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /semillero-servicios/src/main/resources
+2019-04-03 20:07:21,479 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /semillero-servicios/src/test/java
+2019-04-03 20:07:23,926 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /semillero-web/src/main/java
+2019-04-03 20:07:23,927 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /semillero-web/src/test/java
+2019-04-03 20:07:24,472 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-04-03 20:07:24,526 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 30 sec
+2019-04-03 20:07:30,432 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/semillero-web: com.hbt.semillero.web:semillero-web:1.0-SNAPSHOT with classifier  to /semillero-web/target/classes
+2019-04-03 20:07:30,433 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/semillero-servicios: com.hbt.semillero.servicios:semillero-servicios:1.0-SNAPSHOT with classifier  to /semillero-servicios/target/classes
+2019-04-03 20:07:30,446 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for semillero-ear
+2019-04-03 20:07:30,482 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-install-plugin:jar:2.4 is missing, no dependency information available
+2019-04-03 20:07:30,576 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 20:07:30,576 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-ear\src\main\resources
+2019-04-03 20:07:31,835 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 20:07:31,844 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-03 20:07:31,878 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-04-03 20:07:34,993 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 20:07:34,999 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\resources
+2019-04-03 20:07:35,001 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-04-03 20:07:35,004 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-03 20:07:35,004 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\dist
+2019-04-03 20:08:27,677 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
